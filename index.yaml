@@ -1,1 +1,13 @@
-
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-04T23:43:38.659676+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 5a7f623e2f8fab4622cb8d7e9da662c10775cd36395c24e59d377b55ab19c628
+    name: my-app
+    urls:
+    - https://pipo02mix.github.io/my-app-catalog/my-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-11-04T23:43:38.657796+01:00"

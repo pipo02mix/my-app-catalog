@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2019-11-08T16:09:52.619191+01:00"
+entries:
+  my-app:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-08T16:15:31.905965+01:00"
+    description: The best chart ever
+    digest: 965009f4f05d2bad84dee8bf983c9e98981d9a53e92c6574d2aed70cad63a1cd
+    icon: https://png.pngtree.com/png-vector/20190214/ourmid/pngtree-engineering-icon-png-image_428266.jpg
+    name: my-app
+    urls:
+    - my-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-11-08T16:15:31.905398+01:00"
